@@ -1,0 +1,109 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Woo Free Product Quick Checkout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-16 04:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#. Name of the plugin
+#: cbxwoofreeproductquickcheckout.php:363
+msgid "CBX Woo Free Product Quick Checkout"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:375
+msgid "CBX Woo Free Product Quick Checkout Settings"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:378
+msgid "New Order Email for Admin"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:382
+#: cbxwoofreeproductquickcheckout.php:389
+msgid "Disable"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:385
+msgid "Order Complete Email for Customer"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:393
+msgid "Enable Guest Checkout"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:397
+#: cbxwoofreeproductquickcheckout.php:405
+#: cbxwoofreeproductquickcheckout.php:413
+#: cbxwoofreeproductquickcheckout.php:421
+msgid "Yes"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:401
+msgid "Remove Note Field"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:409
+msgid "Ignore Cart Page, Redirect to Checkout"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:417
+msgid "Hide Billing & Shipping Fields"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:427
+msgid "Change Price for Free Product"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:428
+msgid "Keep empty to ignore"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:431
+msgid "Free"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:435
+msgid "Change Add to Cart Label"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:436
+msgid "For only downloadable product, Keep empty to ignore"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:439
+msgid "Download"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:464
+msgid "View settings"
+msgstr ""
+
+#: cbxwoofreeproductquickcheckout.php:464
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Quick checkout for woocommerce free products"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/manchumahara/cbxwoofreeproductquickcheckout"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""
